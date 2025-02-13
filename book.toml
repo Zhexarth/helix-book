@@ -1,5 +1,5 @@
 [book]
-authors = ["Blaž Hrastnik", "zjp <jiping_zhou@foxmail.com>"]
+authors = ["Blaž Hrastnik", "zjp <jiping_zhou@foxmail.com>", "helix <hello@helix.top>"]
 language = "zh"
 multilingual = false
 src = "src"
@@ -12,7 +12,7 @@ title = "Helix Book 中文翻译"
 [output.html]
 default-theme = "colibri"
 preferred-dark-theme = "colibri"
-git-repository-url = "https://github.com/zjp-CN/helix-book"
+git-repository-url = "https://github.com/maoyutofu/helix-book"
 additional-css = ["theme/pagetoc.css"]
 additional-js = ["theme/pagetoc.js"]
 
